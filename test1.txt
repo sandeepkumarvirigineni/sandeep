@@ -1,0 +1,2 @@
+echo "hey how are u"
+echo "i am good"
